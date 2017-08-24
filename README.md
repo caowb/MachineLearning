@@ -1,5 +1,6 @@
 # MachineLearning
 机器学习实例列表:
+
 1.基于SVM的手写数字图片识别（数据源于：Optical Recognition of Handwritten Digits Data Set）；
 
 2.基于Decision Tree、XGBoost、Logistic Regression 的泰坦尼克号灾难预测 （Kaggle Project）；
